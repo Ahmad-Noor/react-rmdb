@@ -2,6 +2,7 @@ npx create-react-app react-rmdb
 npm i history react-router-dom@next
 https://styled-components.com/   npm i styled-components
 npm i --save prop-types
+www.netlify.com
 npm install netlify-cli -g
 
 
